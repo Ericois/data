@@ -1,4 +1,4 @@
-# CueBox Data Import
+# Data Import
 
 This project processes constituent data from input spreadsheets and produces two output CSV files for import into CueBox.
 
@@ -202,7 +202,7 @@ Manually verified 5 random constituents by tracing through all input files:
 
 ## AI Tool Usage Statement
 
-This project was developed with assistance from Claude (AI). Here is a breakdown of the contributions:
+This project was developed with assistance from Claude. Here is a breakdown of the contributions:
 
 ### What I did:
 - Provided the initial requirements and context
